@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95860aa53885ea24aae728dd9972c3fa, type: 3}
+  m_Name: BlueBow
+  m_EditorClassIdentifier: 
+  itemID: 02ed7a2d-bd65-4c11-b364-c72c215fba5e
+  displayName: BlueBow
+  description: BlueBow
+  icon: {fileID: 21300000, guid: c51afa706b02a044694b30f33f81d239, type: 3}
+  pickup: {fileID: 0}
+  stackable: 0
+  price: 1000
+  category: 2
+  allowedEquipLocation: 5
+  animatorOverride: {fileID: 22100000, guid: bb72425b16eb04243bab09544dfe9951, type: 2}
+  equippedPrefab: {fileID: 1862488893907297874, guid: 3eb49c704bae84b47abe63b9d346a79e,
+    type: 3}
+  weaponDamage: 0
+  percentageBonus: 40
+  weaponRange: 18
+  isRightHanded: 0
+  projectile: {fileID: 521994837397603351, guid: 9f2498536b7cbcd4abfab1dc84c4c5bc,
+    type: 3}
